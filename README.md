@@ -227,7 +227,7 @@ $ git clone git@github.com:nexe/nexe.git
 $ cd nexe
 $ npm i && npm run build
 ```
-
+#####
 Testing
 ```
 $ npm test
