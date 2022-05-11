@@ -230,7 +230,7 @@ $ npm i && npm run build
 #####
 Testing
 ```
-$ npm test 854564
+$ npm test 
 ```
 
 
